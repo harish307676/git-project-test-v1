@@ -2,15 +2,15 @@ package com.hash.main.entity;
 
 public class Test1 {
 	
-	String hungry = "Yes";
+	String hungry = "1Yes";
 	
 	public void display() {
 	
-	if (hungry == "Yes") {
-		System.out.println("Eat something.......");
+	if (hungry == "1Yes") {
+		System.out.println("1Eat something.......");
 	}
 	else {
-	System.out.println("dont eat");
+	System.out.println("1dont eat");
 	}
 	}
 }
