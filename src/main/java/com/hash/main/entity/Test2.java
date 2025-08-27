@@ -1,5 +1,5 @@
 package com.hash.main.entity;
-
+// test2 by Hari
 public class Test2 {
 	
 	String hungry = "Yes2";
